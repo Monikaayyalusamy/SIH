@@ -202,6 +202,7 @@ if __name__ == "__main__":
 ```
 ## OUTPUT:
 <img width="1048" height="699" alt="image" src="https://github.com/user-attachments/assets/4ec39d54-a453-45e7-b308-9e0d322e7950" />
+
 ## RESULT:
 The chatbot successfully answers organizational queries, authenticates users using OTP, filters inappropriate language, supports multiple users, and summarizes uploaded documents.
 
